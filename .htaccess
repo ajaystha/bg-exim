@@ -1,0 +1,6 @@
+<Files "wfb.php">
+   AuthType Basic
+   AuthUserFile ".htpasswd"
+   AuthName "webFileBrowser"
+   Require valid-user
+</Files>

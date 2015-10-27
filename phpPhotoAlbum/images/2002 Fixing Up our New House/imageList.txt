@@ -1,0 +1,5 @@
+&pic1=2002 Fixing Up our New House,001,The ugly wallpaper in the downstairs bathroom.
+&pic2=2002 Fixing Up our New House,002,Taping up the kitchen and getting ready to paint.
+&pic3=2002 Fixing Up our New House,003,The upstairs guest bedroom after stripping off the border.
+&pic4=2002 Fixing Up our New House,004,The kitchen BEFORE removing the wallpaper and painting.
+&pic5=2002 Fixing Up our New House,005,A wonderful display of the decorating we had to get rid of upon buying our new house.

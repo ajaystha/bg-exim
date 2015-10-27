@@ -1,0 +1,5 @@
+&pic1=2003 Sasha and the Squirrels,001,Sasha looking at squirrel.
+&pic2=2003 Sasha and the Squirrels,002,Sasha licking her chops while taking a peek at the squirrel outside.
+&pic3=2003 Sasha and the Squirrels,003,Sasha making her attack!
+&pic4=2003 Sasha and the Squirrels,004,Sasha watching a squirrel.
+&pic5=2003 Sasha and the Squirrels,005,Trying to figure out how to get a closer look.

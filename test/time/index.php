@@ -1,0 +1,1 @@
+<IMG SRC="time.php?line1=Time:&line2=HH:MM:SS">

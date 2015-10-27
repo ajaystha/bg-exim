@@ -1,0 +1,6 @@
+&pic1=2002 New Years Eve,001,Noel and Snyder
+&pic2=2002 New Years Eve,002,Phil and Noel
+&pic3=2002 New Years Eve,003,Jason and Amy
+&pic4=2002 New Years Eve,004,Graham and Robin
+&pic5=2002 New Years Eve,005,Noel and her sister.
+&pic6=2002 New Years Eve,006,Alysen and Steve

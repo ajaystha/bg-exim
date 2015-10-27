@@ -1,0 +1,143 @@
+a {
+color: #fff;
+text-decoration: none;
+}
+a:hover{
+color: #fa0;}
+
+img {
+border: 0px;}
+
+
+body{
+color: #fff;
+background-color: #000;
+margin-top: 0px;
+text-align: center;
+}
+.main {
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+background-color: #333;
+color: #fff;
+border: 2px solid #fff;
+border-top-width: 0px;
+}
+.currentfolder {
+width: 100%;
+background-color: #888;
+border-bottom: 1px solid #fff;
+padding-top: 15px;
+margin-bottom: 5px;
+text-align: center;
+font-size: 18px;
+font-family: "Lucida Grande", Tahoma, Arial, sans-serif;
+font-weight: bold;
+}
+
+.sortby{
+max-width: 210px;
+background-color: #777;
+border: 1px solid #bbb;
+border-left-width: 0px;
+border-bottom-width: 0px;
+margin-top: 5px;
+padding: 5px;
+padding-left: 10px;
+padding-bottom: 5px;
+font-size: 12px;
+font-family: "Lucida Grande", Tahoma, Arial, sans-serif;
+font-weight: none;
+}
+.images, .files, .folders{
+padding-top: 10px;
+}
+
+.images {
+float: left;
+}
+.center {
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 20px;
+}
+
+.image { 
+float: left;
+text-align: center;
+margin: 6px 6px 6px 6px; 
+}
+
+.imagebox {
+overflow: hidden;
+border: 1px #999 solid;
+padding-bottom: 5px;
+}
+
+.image img {
+border: 0px;
+border-bottom: 1px #999 solid;
+margin-bottom: 5px;
+}
+
+.files, .folders, .links{
+border-bottom: 1px solid #999;
+padding-bottom: 15px;
+font-size: 14px;
+font-family: "Lucida Grande", Tahoma, Arial, sans-serif;
+text-align: left;
+background-color: #333;}
+
+.links {padding: 20px;}
+.input {float: left; margin-left: 5px; padding:5px;}
+
+.title {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif ;
+font-weight: bold;
+font-size: 14px;
+color: #fff;
+margin-bottom: 10px;
+}
+
+table.list
+{
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif ;
+font-weight: normal;
+font-size: 11px;
+color: #fff;
+width: 100%;
+background-color: #666;
+border-collapse: collapse;
+}
+
+table.list td
+{background-color: #333;
+color: #fff;
+padding: 5px;
+padding-left: 10px;
+border: 1px #070 dotted;
+border-left-width: 0px;
+border-right-width: 0px;}
+
+table.list .right {
+width: 20%;}
+
+table.list .w td{
+background-color: #444;
+}
+
+
+table.list .b td{
+background-color: #555;
+}
+
+table.list .hed td{
+color: #669999;
+padding: 4px;
+padding-left: 10px;
+border-bottom: 1px #999 solid;
+border-top: 0px;
+font-size: 14px;
+font-weight: bold;}

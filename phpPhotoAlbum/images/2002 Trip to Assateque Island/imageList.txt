@@ -1,0 +1,5 @@
+&pic1=2002 Trip to Assateque Island,001,A group of horses relaxing on the beach at Assateque Island.
+&pic2=2002 Trip to Assateque Island,002,A seagull in taking off.
+&pic3=2002 Trip to Assateque Island,003,Looking at the wild horses.
+&pic4=2002 Trip to Assateque Island,004,Seagulls on the beach.
+&pic5=2002 Trip to Assateque Island,005,Horses making a run for it as we approach.

@@ -1,0 +1,128 @@
+* {margin:0px;padding:0px;}
+body{font:8pt Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;}
+p{font:8pt Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;}
+CHECKBOX, INPUT, RADIO, SELECT {font-family: Verdana, Arial, sans-serif;font-size: 11px;}
+ol{list-style:none;}
+li{list=style:none;}
+ol.notification{list-style:decimal;margin-left:30px;font:10px Verdana, Arial, Helvetica, sans-serif;color:#666666}
+ol.menuitems{list-style:decimal;margin-left:22px;font:10px Verdana, Arial, Helvetica, sans-serif;color:#666666;line-height:20px;font-weight:bold;}
+ol.innermenu{list-style:square;margin-left:15px;font:9px Verdana, Arial, Helvetica, sans-serif;color:#666666;line-height:15px}
+
+body,html {margin:0;padding:0;background:#FFFFFF;color:#5F5F5F;margin-top:1px;}
+body{min-width:780px;}
+
+h2 {font:110%  Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;font-weight:bold;padding:0px;}
+h3 {font:105%  Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;font-weight:bold;padding:0px;}
+h4.heading1{font:bold 110% Tahoma Arial, Helvetica, sans-serif;color:#FFFFFF; text-decoration:none;padding-left:0px;text-transform:uppercase;padding-bottom:10px;padding-top:10px;}
+
+a{color:#666666;text-decoration:none;}
+a:hover {color: #000000;text-decoration: underline;}
+
+#heading{font:150%  Helvetica, sans-serif;color:#5F5F5F;font-weight:bold;padding:0px;}
+#wrap {min-height:780px;margin:auto;width:780px;border:0px solid #660000}
+#headerarea{background:#CCCC99;height:90px;; border:1px outset}
+
+#menuarea{background:#DEDBCE;padding:0px; height:auto; border:0px solid #FF0000; float:right;}
+#topline{background:url(images/main-file_08.gif) repeat-x 0% 0%;}
+
+#right{background-color:#5EB2AA;width:190px}
+html>body div.outline{margin-left:-9px}
+
+#newsright{font:tahoma, "Times New Roman", Arial;color:#FFFFFF;padding-left:5px;}
+#newsright h5{font:bold 100% Tahoma;color:#F5D464;text-decoration:none;padding-bottom:10px 0px 5px 0px}
+#newsright .companynews{font:100% Tahoma;color:#F6F6;padding-bottom:10px}
+#newsright .dateline{font:bold 100% Tahoma;color:#F7F7f7;padding:0px}
+
+#CompanyIntro{border:0px solid #00FF00;width:94%}
+#CompanyIntro p{font:102% Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F; text-align:justify; padding:0px;}
+#CompanyIntro h3{font:120%  Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;font-weight:bold;}
+
+span.title{font:105%  Verdana, Arial, Helvetica, sans-serif;color:#5F5F5F;font-weight:bold;padding:12px;padding-right:0px;}
+span#MyDateTime{font:7.5pt Arial, Helvetica, sans-serif;#999999; font-weight:bold;margin:5px;}
+
+#search{border-top:1px solid #666666;
+		border-left:1px solid #666666;
+		border-bottom:2px ridge #999999;
+		border-right:2px groove #999999;
+		background-color:#CCCCCC;width:auto;
+		padding-left:5px;padding-right:5px;
+	}
+
+
+.loginbox{border:1px double #999999;width:50%;height:100px}
+html>body .loginbox{min-height:150px}
+.linebreak{height:5px;}
+html>body .linebreak{height:8px;}
+
+div.container{width:auto;border:0px solid #000000;padding:15px 25px 15px 25px;}
+div.inputs{display:block;list-style:none;height:25px;vertical-align:top;}
+.feedback{width:auto;font:11px Tahoma, Arial, Helvetica, sans-serif; border:0px solid #F0E8CF;min-height:300px;}
+
+.Image{ border-top:1px solid #666666;
+		border-left:1px solid #666666;
+		border-bottom:2px ridge #999999;
+		border-right:2px groove #999999;
+		padding:5px; margin:15px;
+		display:compact; 
+		float:left; 
+		height:180px;
+		width:120px;
+	}
+.Image2{ border-top:1px solid #666666;
+		border-left:1px solid #666666;
+		border-bottom:2px ridge #999999;
+		border-right:2px groove #999999;
+		height:150px;width:120px; float:left;
+	}	
+html>body .Image2{padding:5px; margin:15px;min-height:150px;}		
+
+.Image1{ border-top:1px solid #666666;
+		border-left:1px solid #666666;
+		border-bottom:2px ridge #999999;
+		border-right:2px groove #999999;
+		padding:2px; margin-left:12px;
+		float:left;min-height:113px;width:90px;
+	}
+html>body .Image1{margin-left:0px}
+		
+.prod_list{display:list-item;font-size:8pt;font-family:Verdana, Arial, Helvetica, sans-serif; margin-left:25px;line-height:1.5;}
+.prod_desc{line-height:8px;font:9px Geneva, Arial, Helvetica, sans-serif}
+.prod_desc_detail{
+		display:block; 
+		border:0px ridge #666666; 
+		height:170px; 
+		width:80%; 
+		margin:0px 0px;padding:0px;
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-align:left;
+		float:left;
+		font-weight:100;
+	}
+html>body .prod_desc_detail{
+		display:block; 
+		border:0px ridge #666666; 
+		min-height:125px;
+		width:78%; 
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+		font-size:8pt;
+		text-align:left;
+		font-weight:100;
+	}
+
+.footer{clear:both; height:20px;border:1px outset;background:#cc9}
+.footer p{padding:4px 0px 4px 0px;text-align:center}
+	
+.tbllisting{border:1px groove #666666;width:auto;padding:0px;font-size:10px;}
+.tbllisting th{background-color:#999999;color:#FFFFFF;font-weight:bold;padding:3px;text-align:center;font:12px;}
+.tbllisting td{ border-right:0px groove #666666;padding:0px 0px 0px 5px;}
+.tbllisting td.odd{background-color:#F2F2F2;font:10px;}
+.tbllisting td.even{background-color:#F9F9F9;font:10px;}
+
+.inputRequirement { font-family: Verdana, Arial, sans-serif; font-size: 10px; color: #ff0000; }
+.messageSuccess { font-family: Verdana, Arial, sans-serif; font-size: 10px; background-color: #DEDBCE; }
+.messageError { font-family : Verdana, Arial, sans-serif; font-size : 10px; background: #ffb3b5; font-weight: bold;}
+.messageWarning { font-family : Verdana, Arial, sans-serif; font-size : 10px; color: #E80377; }
+span.errorText{font-family: Verdana, Arial, sans-serif;  color: #ff0000;}
+span.confirm{text-align:left;font-family:Verdana, Arial, Helvetica;color:#666666; border:0px solid #000000; display:block;width:740px; line-height:1.3em;}
+span.notice{font-family:Geneva, Arial, Helvetica, sans-serif; font-size:8pt; text-shadow:#666666;text-decoration:none;}

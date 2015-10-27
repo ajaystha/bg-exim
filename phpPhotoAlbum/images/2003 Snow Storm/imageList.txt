@@ -1,0 +1,5 @@
+&pic1=2003 Snow Storm,001,Piles of snow on our roof.
+&pic2=2003 Snow Storm,002,View of our front yard.
+&pic3=2003 Snow Storm,003,A view of the front walkway.
+&pic4=2003 Snow Storm,004,Sasha in front of snow covered window.
+&pic5=2003 Snow Storm,005,Steve's truck being used as a cooler while we shovel.

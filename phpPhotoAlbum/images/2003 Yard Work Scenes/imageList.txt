@@ -1,0 +1,4 @@
+&pic1=2003 Yard Work Scenes,001,Looking down the side of our house. Steve is in the distance with a wheel barrow.
+&pic2=2003 Yard Work Scenes,002,The starts of my first vegetable garden.
+&pic3=2003 Yard Work Scenes,003,A view from our deck...looking down on our recently raked backyard.
+&pic4=2003 Yard Work Scenes,004,A shot of our backyard before we started raking.
