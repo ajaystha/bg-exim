@@ -9,13 +9,13 @@
 			.lcol{float:left;min-width:180px;border:0px solid  #660033;}
 			.rcol{width:405px;border:0px solid #FF0000;float:right;background-color:#FFFFFF}
 			html>body .rcol{width:405px;border:0px solid #FF0000;float:right;background-color:#FFFFFF}
-		</style>		
+		</style>
 	</head>
 <body>
 <div  style="background:url('./images/bk.gif');width:780px;margin:0 auto">
-<div id="wrap">	
+<div id="wrap">
 	<?php require("./header.php");?>
-	
+
 	<div style="float:left;width:585px;border:0px solid red;">
 
 		<div class="lcol" style="height:144px;"><IMG SRC="images/body_02.gif" WIDTH=180 HEIGHT=144></div>
@@ -26,7 +26,7 @@
 		<?php require("top2products.php");?>
 
 	</div>
-	
+
 	<div style="min-width:180px;float:right">
 		<?php require("right.php"); ?>
 	</div>

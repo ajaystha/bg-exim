@@ -7,7 +7,7 @@
 -- Server version: 5.0.24
 -- PHP Version: 5.1.6
 -- 
--- Database: `bg`
+-- Database: `bg-exim`
 -- 
 
 -- --------------------------------------------------------
